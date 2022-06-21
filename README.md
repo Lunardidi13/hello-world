@@ -13,3 +13,5 @@ The purpose of this repository is to keep track of my progress and as a recollec
 Thank you for reading this short paragraph! Have a good day~
 
 branch-create: readme edit.
+
+testing emoji 🥇 🥈 🥉 
