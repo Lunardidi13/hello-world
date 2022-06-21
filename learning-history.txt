@@ -1,5 +1,8 @@
 I have learned about:
-- Create a repo in github 
-- Create a branch
+- Create a repo in github in github web
+- Create a branch in github web and bash
 - Create pull request
 - Merge pull request
+- Create a fork
+- Edit a fork
+- Update a fork
