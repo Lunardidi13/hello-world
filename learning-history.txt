@@ -1,8 +1,20 @@
-I have learned about:
-- Create a repo in github in github web
-- Create a branch in github web and bash
+What I have learned using GitHub web (remote):
+- Create a repo 
+- Create a branch 
 - Create pull request
 - Merge pull request
 - Create a fork
 - Edit a fork
 - Update a fork
+
+What I have learned using Git bash (local):
+- Register SSH key for multiple devices
+- Initiate a repo
+- Clone a repo
+- Add changes to repo
+- Commit changes for a repo
+- Pull a repo
+- Push a repo
+- Reset changes
+- Create a branch
+- Switch branch
